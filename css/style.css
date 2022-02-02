@@ -314,8 +314,12 @@ hr {
 }
 
 
-.block .footer {
+/*.block .footer {
     width: 90%;
+}*/
+
+.block a {
+    float: right;
 }
 
 
