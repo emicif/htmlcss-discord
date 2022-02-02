@@ -14,7 +14,6 @@
 
 /* utilities */
 
-
 .container {
     height: 100px;
     width: 80%;
@@ -27,29 +26,25 @@
 }
 
 
-.w-10 {
-    width: 10%;
-  }
-
 .w-15 {
     width: 15%;
 }
-  .w-20 {
+
+.w-20 {
     width: 20%;
-  }
-  .w-30 {
+}
+
+.w-30 {
     width: 30%;
-  }
+}
   
-  .w-50 {
+.w-50 {
     width: 50%;
-  }
-  .w-60 {
-    width: 60%;
-  }
-  .w-70 {
+}
+  
+.w-70 {
     width: 70%;
-  }
+}
 
 
 
@@ -122,6 +117,7 @@ img {
     color: white;
     position: relative;
 }
+
 .content {
     position: absolute;
     left: 50%;
@@ -140,61 +136,60 @@ img {
   }
 
 
-  .large-btn {
+.large-btn {
     height: 60px;
     width: 285px;
     border-radius: 50px;
     line-height: 60px;
     font-size: 25px;
-  }
+}
 
 
-  .dark-btn {
+.dark-btn {
       background-color: #23272a;
       color: white;
       height: 60px;
     width: 350px;
     margin-left: 10px;
-  }
+}
 
   /* section */
 
-  .first-section,
-  .second-section,
-  .third-section {
+.first-section,
+.second-section,
+.third-section {
     height: 600px;
     margin: 50px auto;
-  }
+}
 
  
 
-  .first-section .text,
-  .second-section .text,
-  .third-section .text {
+.first-section .text,
+.second-section .text,
+.third-section .text {
       width: 400px;
       margin-left: 50px;
       margin-top: 20px;
+}
 
-  }
-
-  .first-section .text h2,
-  .second-section .text h2,
-  .third-section .text h2 {
+.first-section .text h2,
+.second-section .text h2,
+.third-section .text h2 {
       font-size: 60px;
-  }
+}
 
-  .first-section .text p,
-  .second-section .text p,
-  .third-section .text p,
-  .tecnology .text p {
+.first-section .text p,
+.second-section .text p,
+.third-section .text p,
+.tecnology .text p {
     font-size: 20px;
     line-height: 30px;
     margin-top: 20px;
 }
 
-    .first-section .float,
-    .second-section .float,
-    .third-section .float {
+.first-section .float,
+.second-section .float,
+.third-section .float {
     margin-left: 40px;
 }
 
@@ -211,8 +206,7 @@ main {
 }
 
 
-
-/* second-section */
+/* inizio sezione diversa */
 
 .tecnology {
     height: 900px;
@@ -244,20 +238,13 @@ img.foto {
 }
 
 
+/* footer */
+
 footer {
     height: 900px;
     width: 100%;
     background-color: #23272a;
 }
-
-
-/*.footer-float {
-    height: 500px;
-    background-color: red;
-}*/
-
-
-
 
 
 .footer-float .speak h3,
@@ -293,9 +280,6 @@ footer {
 }
 
 
-
-
-
  
 /* lista footer */
 
@@ -307,7 +291,6 @@ footer {
 .footer-float li {
     margin-top: 10px;
 }
-
 
 
 .footer-float ul li a {
@@ -324,6 +307,7 @@ footer {
     
 }
 
+/* ultima parte footer */
 
 hr {
     margin-top: 15px;
