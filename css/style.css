@@ -149,31 +149,43 @@ img {
 
   /* section */
 
-  .first-section {
+  .first-section,
+  .second-section,
+  .third-section {
       
     height: 600px;
     margin: 50px auto;
-
   }
 
  
 
-  .first-section .text {
+  .first-section .text,
+  .second-section .text,
+  .third-section .text {
       width: 400px;
       margin-left: 50px;
       margin-top: 20px;
 
   }
 
-  .first-section .text h2 {
+  .first-section .text h2,
+  .second-section .text h2,
+  .third-section .text h2 {
       font-size: 60px;
   }
 
-  .first-section .text p {
+  .first-section .text p,
+  .second-section .text p,
+  .third-section .text p {
     font-size: 20px;
     line-height: 30px;
+    margin-top: 20px;
 }
 
-.first-section .float {
+    .first-section .float,
+    .second-section .float,
+    .third-section .float {
     margin-left: 40px;
 }
+
+/* second-section */
